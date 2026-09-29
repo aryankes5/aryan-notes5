@@ -1,0 +1,1 @@
+Biology is ==the scientific study of life and living organisms, from tiny single-celled bacteria to complex plants and animals==.
